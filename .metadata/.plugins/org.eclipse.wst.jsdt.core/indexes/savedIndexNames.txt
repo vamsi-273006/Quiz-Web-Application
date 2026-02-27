@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\workspaces\quiz project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1795830075.index
+729332890.index
+2674243203.index
+820991478.index
+3671903693.index
+3272154633.index
+616165313.index
